@@ -1,3 +1,5 @@
+![Alt tag](https://drive.google.com/uc?id=0B6oW7lrmjVGoa0V1M2FwOXJmdjQ "GreenID")
+
 # GreenID [STATUS : CONCEPTION]
 
 GreenID est un projet personnel qui j'espère intéressera d'autres personnes. Le but de ce projet est de proposer une plateforme d'échange d'informations et de solutions autour de l'écologie. Je suis certain qu'en mettant en commun nos idées et notre intelligence nous pourrions améliorer efficacement et durablement l'effet de la vie humaine sur notre planète.
